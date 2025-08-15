@@ -1,0 +1,14 @@
+{
+  "app_name": "فارما سوفت برو",
+  "welcome": "مرحبًا بك في {pharmacy}!",
+  "sales": "المبيعات",
+  "purchases": "المشتريات",
+  "inventory": "المخزون",
+  "expenses": "المصروفات",
+  "reports": "التقارير",
+  "employees": "الموظفون",
+  "clients_suppliers": "العملاء والموردون",
+  "settings": "الإعدادات",
+  "scan_barcode": "مسح الباركود",
+  "logout": "تسجيل الخروج"
+}

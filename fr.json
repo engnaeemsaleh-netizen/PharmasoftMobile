@@ -1,0 +1,14 @@
+{
+  "app_name": "PharmaSoft Pro",
+  "welcome": "Bienvenue chez {pharmacy} !",
+  "sales": "Ventes",
+  "purchases": "Achats",
+  "inventory": "Stock",
+  "expenses": "Dépenses",
+  "reports": "Rapports",
+  "employees": "Employés",
+  "clients_suppliers": "Clients & Fournisseurs",
+  "settings": "Paramètres",
+  "scan_barcode": "Scanner le code-barres",
+  "logout": "Se déconnecter"
+}
